@@ -1,0 +1,24 @@
+body{
+   background-color:palegreen;
+   
+}
+img{
+    height: 100px;
+    width: 200px;
+    
+    border-color: blueviolet;
+    border-left: 10px rgb(255, 0, 64) solid;
+    border-right:10px white solid;
+    border-top: 10px gray solid;
+    border-bottom: 10px orchid solid;
+    border-radius: 100px;
+    border-style:ridge;
+    opacity: 0.5;
+    
+}
+img:hover{
+    opacity: 1;
+}
+#abc{
+    background-color: brown;
+}
